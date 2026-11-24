@@ -1,7 +1,5 @@
 # 🌐 DNC Protocol
 
-**Current operating environment — 24 November 2026:** CRAYS development, builds, testing, previews and server operation use AWS. Vercel, Neon and XXL references in older captures describe historical environments. This hosting status does not claim completion of every product flow. [Current AWS and source guidance](https://github.com/CraysWorld/.github/blob/main/docs/aws-operating-status.md).
-
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-brightgreen.svg)](https://github.com/CraysWorld/dnc-protocol) [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/CraysWorld/dnc-protocol) [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/FrWW4Ubq)
 
 > **The Internet, but peer-to-peer. No ISPs required.**
