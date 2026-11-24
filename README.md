@@ -1,6 +1,8 @@
 # 🌐 DNC Protocol
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-brightgreen.svg)](https://github.com/crays-ecosystem/dnc-protocol) [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/crays-ecosystem/dnc-protocol) [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/FrWW4Ubq)
+**Current operating environment — 24 November 2026:** CRAYS development, builds, testing, previews and server operation use AWS. Vercel, Neon and XXL references in older captures describe historical environments. This hosting status does not claim completion of every product flow. [Current AWS and source guidance](https://github.com/CraysWorld/.github/blob/main/docs/aws-operating-status.md).
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-brightgreen.svg)](https://github.com/CraysWorld/dnc-protocol) [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/CraysWorld/dnc-protocol) [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/FrWW4Ubq)
 
 > **The Internet, but peer-to-peer. No ISPs required.**
 
@@ -73,7 +75,7 @@ We're building the future of decentralized networking and need passionate contri
 
 ```bash
 # Clone the repository
-git clone https://github.com/crays-ecosystem/dnc-protocol.git
+git clone https://github.com/CraysWorld/dnc-protocol.git
 cd dnc-protocol
 ```
 
